@@ -3,7 +3,7 @@
     <remote name="github" fetch="https://github.com" />
 
     <default remote="github" sync-j="10" sync-c="true" />
-	<project name="xen-troops/meta-xt-rcar" path="meta-xt-rcar" upstream="master" revision="master" />
+	<project name="xen-troops/meta-xt-rcar/meta-xt-rcar-proprietary" path="meta-xt-rcar" upstream="master" revision="master" />
     <project name="xen-troops/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="master" revision="master" />
     <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="master" />
     <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="master" />
